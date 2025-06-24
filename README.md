@@ -22,4 +22,4 @@ AR 빌드 환경에서의 다이나믹 맵 구현 방법과 이를 통한 네비
 ## 4. 개발 환경
 - Windows 11, Unity Editor 2022.3.20f1, URP 14.0.10, VisualStudio 2022 - 17.7.6, Text Mesh Pro 3.0.6, Youtube Player 2.0.2, BingMap for Unity 0.11.2, AR Foundation 5.1.2, AR Core 5.1.2, Newtonsoft JSON 3.2.1, UniRx 7.1.2, CsvHelper 30.0.1, Native Gallery 1.8.0
 ## 5. 관련 영상
-- [Youtube](https://youtu.be/lCk6_zKjx8o?si=GWfimibeiTgRCJZB)
+- [Youtube](https://youtu.be/6HSo3olTcj4?si=GXGyuJsy-DoY3es3)
